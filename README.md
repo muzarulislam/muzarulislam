@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Muzarul Islam
+## I'm Muzarul Islam 👋
 #### Web Designer | Developer
 ![Web Designer | Developer](https://i.ibb.co/tZ5d8pZ/Git-Hub-Banner.webp)
 
