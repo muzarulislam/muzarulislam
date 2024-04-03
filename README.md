@@ -3,11 +3,17 @@
 ![Web Designer | Developer](https://i.ibb.co/tZ5d8pZ/Git-Hub-Banner.webp)
 
   👑 I am Web Developer
+  
   🖊️ Love to write code
+  
  🔭 I’m currently working on WordPress  
+ 
  🌱 I’m currently learning JavaScript  
+ 
  👯 I’m looking to collaborate on GitHub 
+ 
  💬 Ask me about Web Designer | Developer
+ 
  🎤 Like to share my knowledge
 
  # 🚀 About Me
